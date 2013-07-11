@@ -1,0 +1,3 @@
+# ignore the folder with all the psds, no need for those #
+##########################################################
+psd/*
