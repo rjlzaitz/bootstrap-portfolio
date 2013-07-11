@@ -41,7 +41,7 @@ a:hover {
 /* nav bar */
 
 .navbar .nav {
-	font-family: font-family: "atrament-web",sans-serif;
+	font-family: "atrament-web",sans-serif;
 	font-size: 1em;
 	margin-top: 2px;
 		
@@ -113,6 +113,32 @@ a:hover {
 }
 
 /* end jumbotron */
+
+/* indiviual project */
+
+#project-container {
+	margin-top: 5em;
+}
+
+#project-container ul {
+	float: none;
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+#project-container li {
+	list-style: none;
+	margin: 5em auto 2em auto;
+}
+
+#project-container li img {
+	display: block;
+
+	margin: 0 auto;
+}
+
+
+/* end project */
 
 /* work thumbnails */
 
