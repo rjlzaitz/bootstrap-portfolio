@@ -8,7 +8,6 @@ body {
     font-size: 16px;
     line-height: 22px;
     padding: 0;
-
 }
 
 p {
@@ -38,13 +37,13 @@ a:hover {
 
 /* end global */
 
+
 /* nav bar */
 
 .navbar .nav {
 	font-family: "atrament-web",sans-serif;
 	font-size: 1em;
 	margin-top: 2px;
-		
 }
 
 .navbar .brand {
@@ -73,6 +72,8 @@ a:hover {
 }
 
 /* end nav bar */
+
+
 
 /* jumbotron */
 
@@ -114,6 +115,8 @@ a:hover {
 
 /* end jumbotron */
 
+
+
 /* indiviual project */
 
 #project-container {
@@ -139,6 +142,8 @@ a:hover {
 
 
 /* end project */
+
+
 
 /* work thumbnails */
 
@@ -224,16 +229,18 @@ a:hover {
    text-decoration: none;
    text-transform: uppercase;
    vertical-align: middle;
-   }
+}
 
 .thumbnails li figcaption a:hover {
    border-top-color: #20d34a;
    background: #20d34a;
    color: #303030;
-   }
+}
 
 
 /* end work thumbs */
+
+
 
 /* about section */
 
@@ -286,6 +293,8 @@ a:hover {
 }
 
 /* end about section */
+
+
 
 /* footer */
 
