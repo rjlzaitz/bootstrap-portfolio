@@ -2,14 +2,12 @@
 	
 <div id="project-container" class="container">
 		
-		<h2>An Improv-tastic Roadtrip</h2>
+		<h2>Good to Know Infographic</h2>
 		
-		<p>When Nissan launched the 2013 Pathfinder, we teamed up with Second City to create an Improv-tastic Roadtrip. For one week, Nissan's Facebook fans could submit requests for what their very own, all improv, music video would be. Then, the day of the event, fans could tune in to see if they had been selected. For 11 hours, Second City comedians took fan submissions and created music videos that were 100% improv.</p> 
+		<p>Unilever wanted to get the word out that buttery spreads are not all that bad for you and in some cases, are actually a better choice than butter. This infographic was made to illustrate that story in a fun, interesting way and was distributed to bloggers for sharing with their networks.</p> 
 		
 		<ul class="project-images">
-			<li><img src="img/nissan-roadtrip/nissan-improv-monitor.png" alt="nissan-improv-monitor" width="899" height="686"></li>
-			<li><img src="img/nissan-roadtrip/likegate.png" alt="likegate" width="775" height="790"></li>
-			<li><img src="img/nissan-roadtrip/nissan-improv-video.png" alt="nissan-improv-video" width="899" height="686"></li>
+			<li><img src="img/demystify-infographic/infographic.jpg" alt="infographic" width="1000" height="2451" /></li>
 		</ul><!-- end project images -->
 	
 </div><!-- end project-container -->

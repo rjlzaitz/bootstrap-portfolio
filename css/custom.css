@@ -140,6 +140,15 @@ a:hover {
 	margin: 0 auto;
 }
 
+#project-container h2 {
+	margin: 0.5em auto 1em auto;
+}
+
+#project-container p {
+	font-size: 1.75em;
+	line-height: 1.65em;
+}
+
 
 /* end project */
 
@@ -259,6 +268,9 @@ a:hover {
 }
 
 .about p{
+	color: #70E8CB;
+	font-size: 1.75em;
+	line-height: 1.65em;
 	margin: 0;
 	padding: 0;
 }
@@ -284,12 +296,6 @@ a:hover {
 .about ul li h3 {
 	color: #70E8CB;
 	font-size: 1.75em;
-}
-
-.about p {
-	color: #70E8CB;
-	font-size: 1.75em;
-	line-height: 1.65em;
 }
 
 /* end about section */

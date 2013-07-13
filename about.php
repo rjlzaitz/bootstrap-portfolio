@@ -10,16 +10,17 @@
 			<div class="row-fluid">
 				<ul class="span6">
 					<li><h3>Skills</h3></li>
-					<li>Digital Design</li>
-					<li>Print Design</li>
+					<li>Web Design</li>
 					<li>HTML & CSS</li>
-					<li>Enough Javascript &amp; Jquery to be dangerous</li>
+					<li>Enough Javascript to be dangerous</li>
+					<li>Print Design</li>
 				</ul>
 				
 				<ul class="span6">
 					<li><h3>Tools</h3></li>
-					<li>Photoshop, Illustrator, InDesign, Fireworks</li>
+					<li>Photoshop, Illustrator, InDesign</li>
 					<li>Coda 2</li>
+					<li>GitHub</li>
 					<li>Pencil &amp; Paper</li>
 				</ul>
 			</div>

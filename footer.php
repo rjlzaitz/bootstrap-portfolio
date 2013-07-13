@@ -36,5 +36,5 @@
 					
 				</div><!-- .row -->
 									
-			</div><!-- .container -->
-	</footer><!-- .footer -->
+		</div><!-- .container -->
+</footer><!-- .footer -->
