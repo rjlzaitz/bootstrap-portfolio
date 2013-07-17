@@ -4,7 +4,7 @@
 		
 		<h2>Team Zelo</h2>
 		
-		<p>Team Zelo is an example platform design for  a technology that is built to connect brands with their niggest fans, and to keep them engaged. Team Zelo was a brand that the team came up with to help us show how the platform comes to life with a custom design, challenges and prizes. I was tasked with designing all the callenges, prizes, sliders, page elements, mobile layout and emails.</p> 
+		<p>Team Zelo is an example platform design for  a technology that is built to connect brands with their biggest fans, and to keep them engaged. Team Zelo was a brand that the team came up with to help us show how the platform comes to life with a custom design, challenges and prizes. I was tasked with designing all the callenges, prizes, sliders, page elements, mobile layout and emails.</p> 
 		
 		<ul class="project-images">
 			<li><img src="img/team-zelo/home-mock-up.png" alt="home-mock-up" width="899" height="686" /></li>

@@ -4,7 +4,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Bootstrap Test Site</title>
+	<title>Randall Zaitz</title>
+	<link rel="icon" href="./img/icons/favicon.ico" type="image/x-icon" />
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,700|Vollkorn:400,400italic,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/custom.css">

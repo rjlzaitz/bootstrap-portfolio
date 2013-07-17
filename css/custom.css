@@ -322,17 +322,22 @@ a:hover {
 }
 
 .footer h4 {
-	color: #ffffff;
+	color: #70E8CB;
 	letter-spacing: .05em;
 	font-size: 1.5em;
 }
 
-.footer li a {
-	color: #ffffff;
+.footer li, .footer li a {
+	color: #70E8CB;
 	font-weight: 100;
-	font-size: 1.05em;
+	font-size: 1em;
 	line-height: 1.5em;
 }
+
+.footer li a:hover {
+	text-decoration: underline;
+}
+
 
 /* end footer */
 
@@ -363,6 +368,24 @@ a:hover {
 	}
 	.footer {
 		text-align: center;
+	}
+	
+	.footer h4 {
+		color: #70E8CB;
+		letter-spacing: .05em;
+		font-size: 2em;
+	}
+	
+	.footer li {
+		color: #70E8CB;
+		font-weight: 100;
+		font-size: 1.5em;
+		line-height: 1.5em;
+	}
+	
+	.footer li a {
+		color: #70E8CB;
+		font-weight: 100;
 	}
 	
 	.hero-unit{

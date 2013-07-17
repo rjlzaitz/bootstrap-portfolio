@@ -4,7 +4,7 @@
 			
 			<div class="row-fluid">
 			<h2 class="span12">About</h2>
-			<p class="span12">Hey there, I'm Randall. I'm a designer. I love design because there is always something new to learn, no two projects are ever the same and design can be applied to many areas of discipline. Also, I like to tinker. My hobbies range from building gadgets with Arduino to making music with Ableton Live. I'm always pushing myself to learn new things to keep my creativity sharp. This helps me think about my work in new and interesting ways.</p>
+			<p class="span12">Hey, I'm Randall. I'm a designer who likes to learn new things. I chose web design as a career because there is always something new to learn, no two projects are ever the same and design can be applied to many areas of discipline. Also, I like to tinker. My hobbies range from building gadgets with Arduino to making music with Ableton Live. I'm always pushing myself to learn new things to keep my creativity sharp. This helps me think about my work in new and interesting ways.</p>
 			</div>
 			
 			<div class="row-fluid">

@@ -48,18 +48,18 @@
 				</li><!-- .span3 -->
 				<li class="span4 text-center">
 					<figure>
-						<a href="project-5.php"><img src="img/hr-book-website/hr-book-thumb.jpg" alt="hr-book-thumb"></a>
+						<a href="project-5.php"><img src="img/heenan-construction/heenan-thumb.jpg" alt="heenan-thumb" width="600" height="600" /></a>
 						<figcaption> 
-							<h3>Highly Recommended Website</h3> 
+							<h3>Heenan Construction Logo</h3> 
 							<a href="#">View this project</a>
 						</figcaption>
 					</figure>
 				</li><!-- .span3 -->
 				<li class="span4 text-center">
 					<figure>
-						<a href="project-6.php"><img src="http://placekitten.com/800/800" alt=""></a> 
+						<a href="project-6.php"><img src="img/nissan-car-care-tips/car-care-thumb.jpg" alt="car-care-thumb" width="600" height="600" /></a> 
 						<figcaption> 
-							<h3>Heenan Construction Logo</h3> 
+							<h3>Nissan Car Care Tips</h3> 
 							<a href="#">View this project</a>
 						</figcaption>
 					</figure>
