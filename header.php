@@ -7,7 +7,7 @@
 	<title>Randall Zaitz</title>
 	<link rel="icon" href="./img/icons/favicon.ico" type="image/x-icon" />
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,700|Vollkorn:400,400italic,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom.css">
 	<script type="text/javascript" src="//use.typekit.net/lck5oaw.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
